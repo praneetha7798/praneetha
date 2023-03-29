@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#header{
+    background-color: #262A56;
+    height: 3cm;
+}
+#sub{
+    background-color: white;
+    border-style:ridge;
+    border-color:gray;
+    height: 1.5cm;
+    width: 25%;
+    position:relative;
+    top: 35%;
+    bottom:35%;
+    left: 40%;
+    right: 35%;
+    text-align: center;
+    
+
+}
+#worldwide{
+    font-size: x-small;
+    
+}
+#div1{
+    background-color: white;
+    height: 3cm;
+    
+}
+#button1{
+    background-color: aliceblue;
+    padding-right: 5%;
+    position: absolute;
+    top: 23%;
+    left: 1%;
+}
+.para2{
+    position: absolute;
+    right: 10%;
+    top: 18%;
+    
+
+}
+#mail{ 
+    position: absolute;
+    right: 10%;
+    top: 23%;
+}
+#button2{
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 5.5%;
+    top: 23%;
+}
+.heading{
+    color: rgb(2, 2, 88);
+}
+.button3{
+    color: white;
+    background-color: rgb(239, 78, 19);
+    height: 1cm;
+    border-style: none;
+
+}
